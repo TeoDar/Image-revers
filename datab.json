@@ -2,21 +2,21 @@
   {
     "id": 0,
     "name": "Vasya",
-    "image": "https://github.com/TeoDar/Image-revers/blob/master/Vasya.jpg?raw=true",
+    "image": "https://github.com/TeoDar/Image-revers/blob/master/Vasya.jpg?raw=true"
   },
   {
     "id": 1,
     "name": "Maks",
-    "image": "https://github.com/TeoDar/Image-revers/blob/master/Maks.jpg?raw=true",
+    "image": "https://github.com/TeoDar/Image-revers/blob/master/Maks.jpg?raw=true"
   },
   {
     "id": 2,
     "name": "TeoDar",
-    "image": "https://github.com/TeoDar/Image-revers/blob/master/Teo.jpg?raw=true",
+    "image": "https://github.com/TeoDar/Image-revers/blob/master/Teo.jpg?raw=true"
   },
   {
     "id": 3,
     "name": "AnyPerson",
-    "image": "https://github.com/TeoDar/Image-revers/blob/master/Any.jpg?raw=true",
+    "image": "https://github.com/TeoDar/Image-revers/blob/master/Any.jpg?raw=true"
   }
 ]
