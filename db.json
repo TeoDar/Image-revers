@@ -2,22 +2,22 @@
   {
     "id": 0,
     "name": "Вася Пупкин",
-    "image": "https://picsum.photos/200/300?random=1",
+    "image": "https://github.com/TeoDar/Image-revers/blob/master/a5XQ6gxtQ9Y.jpg?raw=true",
   },
   {
     "id": 1,
     "name": "Макс",
-    "image": "https://picsum.photos/id/229/200/300",
+    "image": "https://github.com/TeoDar/Image-revers/blob/master/SosYaG4-niE.jpg?raw=true",
   },
   {
     "id": 2,
     "name": "Фёдор",
     "year": "2008",
-    "image": "https://picsum.photos/id/230/200/300",
+    "image": "https://github.com/TeoDar/Image-revers/blob/master/ucpdu9qV7Ew.jpg?raw=true",
   },
   {
     "id": 3,
     "name": "ХуйПатлатый",
-    "image": "https://picsum.photos/id/234/200/300",
+    "image": "https://github.com/TeoDar/Image-revers/blob/master/vy1dNH_3woo.jpg?raw=true",
   }
   ]
