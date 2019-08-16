@@ -1,0 +1,22 @@
+[
+  {
+    "id": 0,
+    "name": "Вася Пупкин",
+    "image": "https://github.com/TeoDar/Image-revers/blob/master/a5XQ6gxtQ9Y.jpg?raw=true",
+  },
+  {
+    "id": 1,
+    "name": "Макс",
+    "image": "https://github.com/TeoDar/Image-revers/blob/master/SosYaG4-niE.jpg?raw=true",
+  },
+  {
+    "id": 2,
+    "name": "Фёдор",
+    "image": "https://github.com/TeoDar/Image-revers/blob/master/ucpdu9qV7Ew.jpg?raw=true",
+  },
+  {
+    "id": 3,
+    "name": "ХуйПатлатый",
+    "image": "https://github.com/TeoDar/Image-revers/blob/master/vy1dNH_3woo.jpg?raw=true",
+  }
+]
