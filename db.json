@@ -1,0 +1,23 @@
+[
+  {
+    "id": 0,
+    "name": "Вася Пупкин",
+    "image": "https://picsum.photos/200/300?random=1",
+  },
+  {
+    "id": 1,
+    "name": "Макс",
+    "image": "https://picsum.photos/id/229/200/300",
+  },
+  {
+    "id": 2,
+    "name": "Фёдор",
+    "year": "2008",
+    "image": "https://picsum.photos/id/230/200/300",
+  },
+  {
+    "id": 3,
+    "name": "ХуйПатлатый",
+    "image": "https://picsum.photos/id/234/200/300",
+  }
+  ]
